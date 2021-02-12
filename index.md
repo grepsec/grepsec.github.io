@@ -16,6 +16,37 @@ More details soon!
 
 Space is limited and an application is required of all potential attendees. Applications will be accepted starting in March 2021, and details will appear here. Accepted GREPSEC attendees will automatically qualify to receive a Diversity Grant to attend USENIX Security ’21.
 
+# Organizers
+_**General Chair**_
+* [Michelle Mazurek](https://umiacs.umd.edu/~mmazurek), University of Maryland <br>
+
+_**Program Chairs**_
+* [Christina Garman](https://www.cs.purdue.edu/homes/clg/), Purdue University
+* Michel Kornegay, Morgan State University<br>
+
+_**Steering Committee**_
+* [Terry Benzel](http://isi.edu/people/tbenzel), USC Information Sciences Institute
+* [Susan Landau](http://privacyink.org/), Tufts University
+* [Hilarie Orman](http://www.purplestreak.com/), Purple Streak
+
+<!-- | **General Chair** | |
+| --- | --- |
+| Michelle Mazurek | University of Maryland |
+
+|**Program Chairs**| |
+| --- | --- |
+| Christina Garman | Purdue University |
+| Michel Kornegay | Morgan State University |
+
+|**Steering Committee**|  |
+| --- | --- |
+|[Terry Benzel](http://isi.edu/people/tbenzel) | USC Information Sciences Institute |
+|[Susan Landau](http://privacyink.org/) | Tufts University |
+|[Hilarie Orman](http://www.purplestreak.com/) | Purple Streak | -->
+
+
+
+
 # Previous workshops
 
 *  [GREPSEC IV](https://www.ieee-security.org/grepsec/index-gs4.html)
