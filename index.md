@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+<!-- ![GREPSEC logo](assets/images/gsec-symbol-lo2.gif) -->
+
 GREPSEC is a workshop for early-stage graduate students in computer security and privacy, focusing on women and members of underrepresented populations.
 
 
