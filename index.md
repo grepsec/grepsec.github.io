@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
+GREPSEC is a workshop for early-stage graduate students in computer security and privacy, focusing on women and members of underrepresented populations.
 
-GREPSEC is a workshop for early-stage graduate students in computer security and privacy, focusing on women and members of underrepresented groups.
+
+![GREPSEC4 attendees](assets/images/grepsecIV.jpg)
+
 
 # Program
 
@@ -14,7 +17,11 @@ More details soon!
 
 # Attending
 
-Space is limited and an application is required of all potential attendees. Applications will be accepted starting in March 2021, and details will appear here. Accepted GREPSEC attendees will automatically qualify to receive a Diversity Grant to attend USENIX Security ’21.
+### Accepted GREPSEC attendees will automatically qualify to receive a Diversity Grant to attend [USENIX Security ’21](https://www.usenix.org/conference/usenixsecurity21/).
+
+Space is limited and an application is required of all potential attendees. Applications will be accepted starting in March 2021, and details will appear here. Applications will be due in early May.
+
+
 
 # Organizers
 _**General Chair**_
@@ -22,7 +29,7 @@ _**General Chair**_
 
 _**Program Chairs**_
 * [Christina Garman](https://www.cs.purdue.edu/homes/clg/), Purdue University
-* Michel Kornegay, Morgan State University<br>
+* [Michel Kornegay](https://www.armmedlab.com), Morgan State University<br>
 
 _**Steering Committee**_
 * [Terry Benzel](http://isi.edu/people/tbenzel), USC Information Sciences Institute
