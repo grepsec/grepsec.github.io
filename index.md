@@ -20,9 +20,12 @@ More details soon!
 
 # Attending
 
-### Accepted GREPSEC attendees will automatically qualify to receive a Diversity Grant to attend [USENIX Security ’21](https://www.usenix.org/conference/usenixsecurity21/).
+**Apply [here](https://go.umd.edu/grepsecV-apply). Applications are due on May 4.**
 
-Space is limited and an application is required of all potential attendees. Applications will be accepted starting in March 2021, and details will appear here. Applications will be due in early May.
+#### Accepted GREPSEC attendees will automatically qualify to receive a Diversity Grant to attend [USENIX Security ’21](https://www.usenix.org/conference/usenixsecurity21/).
+
+Space is limited and an application is required of all potential attendees. Strong preference is given to applicants who are actively doing research (toward eventual publication) in security and privacy.
+
 
 
 
