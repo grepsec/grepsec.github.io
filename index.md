@@ -4,7 +4,7 @@ layout: default
 
 <!-- ![GREPSEC logo](assets/images/gsec-symbol-lo2.gif) -->
 
-GREPSEC is a workshop for early-stage graduate students in computer security and privacy, focusing on women and members of underrepresented populations.
+GREPSEC is a workshop for early-stage graduate students in computer security and privacy, focusing on underrepresented populations, including women, non-binary, and gender minorities; Black, Hispanic/Latino/Latina, Native American and Indigenous students; and LGBTQ+ students.
 
 
 ![GREPSEC4 attendees](assets/images/grepsecIV.jpg)
@@ -16,7 +16,7 @@ The GREPSEC program will include research talks, mentoring, and social/networkin
 
 The relaxed (albeit virtual) nature of the workshop will give students time to talk informally with speakers about research opportunities and career paths. Speakers will be invited based on their accomplishments in research and their ability to mentor students from diverse backgrounds.
 
-More details soon!
+[Draft program](./program.md)
 
 # Attending
 
