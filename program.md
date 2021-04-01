@@ -39,4 +39,6 @@ All times EDT.
 
 
 ## Confirmed speakers
-Coming soon!
+* [Grant Ho](https://cseweb.ucsd.edu/~grho/), UC San Diego
+* [Rebekah Overdorf](https://people.epfl.ch/rebekah.overdorf), EPFL
+* Tal Rabin, University of Pennsylvania and Algorand Foundation
