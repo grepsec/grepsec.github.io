@@ -40,5 +40,7 @@ All times EDT.
 
 ## Confirmed speakers
 * [Grant Ho](https://cseweb.ucsd.edu/~grho/), UC San Diego
+* [Abby Marsh](https://abbymarsh.com), Macalester College
 * [Rebekah Overdorf](https://people.epfl.ch/rebekah.overdorf), EPFL
 * Tal Rabin, University of Pennsylvania and Algorand Foundation
+* More soon!
