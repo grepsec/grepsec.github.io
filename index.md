@@ -22,6 +22,8 @@ The relaxed (albeit virtual) nature of the workshop will give students time to t
 
 **Apply [here](https://go.umd.edu/grepsecV-apply). Applications are due on May 4.**
 
+There is **NO COST** for attendees.
+
 #### Accepted GREPSEC attendees will automatically qualify to receive a Diversity Grant to attend [USENIX Security ’21](https://www.usenix.org/conference/usenixsecurity21/).
 
 Space is limited and an application is required of all potential attendees. Strong preference is given to applicants who are actively doing research (toward eventual publication) in security and privacy.
