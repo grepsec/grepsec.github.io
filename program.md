@@ -38,9 +38,11 @@ All times EDT.
 |||
 
 
-## Confirmed speakers
+## Confirmed speakers and panelists
+* Rachel Greenstadt, New York University
 * [Grant Ho](https://cseweb.ucsd.edu/~grho/), UC San Diego
 * [Abby Marsh](https://abbymarsh.com), Macalester College
 * [Rebekah Overdorf](https://people.epfl.ch/rebekah.overdorf), EPFL
 * Tal Rabin, University of Pennsylvania and Algorand Foundation
+* [Tom Ristenpart](https://rist.tech.cornell.edu/), Cornell Tech
 * More soon!

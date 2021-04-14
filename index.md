@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<!-- To test locally: bundle exec jekyll serve; check localhost:4000 -->
+<!-- To publish, commit and push -->
+
 <!-- ![GREPSEC logo](assets/images/gsec-symbol-lo2.gif) -->
 
 GREPSEC is a workshop for early-stage graduate students in computer security and privacy, focusing on underrepresented populations, including women, non-binary, and gender minorities; Black, Hispanic/Latino/Latina, Native American and Indigenous students; and LGBTQ+ students.
