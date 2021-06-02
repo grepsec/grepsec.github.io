@@ -19,7 +19,7 @@ The GREPSEC program will include research talks, mentoring, and social/networkin
 
 The relaxed (albeit virtual) nature of the workshop will give students time to talk informally with speakers about research opportunities and career paths. Speakers will be invited based on their accomplishments in research and their ability to mentor students from diverse backgrounds.
 
-[Draft program](./program.md)
+[Program](./program.md)
 
 # Attending
 
