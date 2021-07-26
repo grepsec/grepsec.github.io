@@ -12,7 +12,7 @@ GREPSEC is a workshop for early-stage graduate students in computer security and
 
 ![GREPSEC4 attendees](assets/images/grepsecIV.jpg)
 
-
+<br>
 # Program
 
 The GREPSEC program will include research talks, mentoring, and social/networking sessions.
@@ -21,6 +21,7 @@ The relaxed (albeit virtual) nature of the workshop will give students time to t
 
 [Program](./program.md)
 
+<br>
 # Attending
 
 **Apply [here](https://go.umd.edu/grepsecV-apply). Applications are due on**  ̶M̶a̶y̶ ̶4̶ ̶ **May 11 (deadline extended).**
@@ -34,7 +35,7 @@ Space is limited and an application is required of all potential attendees. Stro
 
 
 
-
+<br>
 # Organizers
 _**General Chair**_
 * [Michelle Mazurek](https://umiacs.umd.edu/~mmazurek), University of Maryland <br>
@@ -65,7 +66,7 @@ _**Steering Committee**_
 
 
 
-
+<br>
 # Previous workshops
 
 *  [GREPSEC IV](https://www.ieee-security.org/grepsec/index-gs4.html)
@@ -76,5 +77,10 @@ _**Steering Committee**_
 * * *
 GREPSEC V will be held in cooperation with [USENIX](https://usenix.org) and is sponsored by the [NSF](https://nsf.gov).
 
+We thank our Gold sponsors: [Microsoft](https://www.microsoft.com) and [USENIX](https://usenix.org)
+
+![Microsoft logo](assets/images/Microsoft-logo_rgb_c-wht.png){: width="220" }
+![NSF logo](assets/images/impacts_nsf_logo.jpg){:width="90"}
+![USENIX logo](assets/images/usenix_logo_full_color_white_text.png){: width="190"}
 
 ###### Made with [Hacker](https://pages-themes.github.io/hacker/) theme for Github Pages
