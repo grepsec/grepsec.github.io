@@ -34,7 +34,7 @@ Talk and speaker [details](./speakers.md).
 
 | --- | --- |
 | 9:00-10:00 am | Optional social hour |
-| 10:00-10:30 am | Kevin Kornegay |
+| 10:00-10:30 am | Kevin Kornegay: IoT Security Research at the CAP Center |
 | 10:30-11:00 am | Q&A with Kevin Kornegay |
 | 11:00 am-12:00 pm | Speed mentoring |
 | 12:00 pm-1:00 pm | Food break |
