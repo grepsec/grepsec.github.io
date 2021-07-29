@@ -66,9 +66,9 @@ Talk and speaker [details](./speakers.md).
 
 * * *
 ## Additional mentors
-* Elisa Bertino, Purdue University
-* Maritza Johnson, University of California San Diego
-* Dave Levin, University of  Maryland
-* Cynthia Sturton, University of North Carolina
-* Yuan Tian, University of Virginia
-* Blase Ur, University of Chicago
+* [Elisa Bertino](https://www.cs.purdue.edu/homes/bertino/), Purdue University
+* [Maritza Johnson](https://maritzajohnson.com/), University of California San Diego
+* [Dave Levin](https://www.cs.umd.edu/~dml/), University of  Maryland
+* [Cynthia Sturton](https://www.cs.unc.edu/~csturton/), University of North Carolina
+* [Yuan Tian](https://www.ytian.info/), University of Virginia
+* [Blase Ur](https://www.blaseur.com/), University of Chicago
