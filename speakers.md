@@ -41,9 +41,16 @@ Award, National Semiconductor Faculty Development Award, and the General Motors 
 <br>
 
 * * *
-### Abigail Marsh: Panel: Socially Responsible Security and Privacy research
+### Abigail Marsh: Panel: Socially Responsible Security and Privacy Research
 
 > Abigail Marsh is an Assistant Professor of Computer Science at Macalester College, where their research focuses on the usable privacy concerns of situations where multiple stakeholders have access to one account or device, including familial and romantic relationships, older adults and their caretakers, and many other groups. They additionally research privacy and security concerns introduced by assistive technology.
+
+<br>
+
+* * *
+### Rebekah Overdorf: Panel: Socially Responsible Security and Privacy Research
+
+> Rebekah Overdorf is a postdoctoral researcher in the School of Computer and Communication Sciences at the École Polytechnique Fédérale de Lausanne (EPFL) in Switzerland. Her background is in studying the effects that machine learning can have on privacy and the ways in which machine learning can be used to attack private systems and infer private information. Currently, her research revolves around the negative impacts of technical optimization systems on the users, non-users, and the environments in which they are deployed. For example, countering bias in an unfair system when the service provider is not incentivized to correct it, developing technologies to assist municipalities negatively affected by routing applications or ride-sharing applications, and measuring and countering the effects of fake news and fake accounts on social media platforms.
 
 <br>
 
