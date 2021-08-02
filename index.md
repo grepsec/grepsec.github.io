@@ -77,10 +77,16 @@ _**Steering Committee**_
 * * *
 GREPSEC V will be held in cooperation with [USENIX](https://usenix.org) and is sponsored by the [NSF](https://nsf.gov).
 
-We thank our Gold sponsors: [Microsoft](https://www.microsoft.com) and [USENIX](https://usenix.org)
+We thank our Gold sponsors: [Microsoft](https://www.microsoft.com), the [National Security Agency]() and [USENIX](https://usenix.org).
 
-![Microsoft logo](assets/images/Microsoft-logo_rgb_c-wht.png){: width="220" }
-![NSF logo](assets/images/impacts_nsf_logo.jpg){:width="90"}
-![USENIX logo](assets/images/usenix_logo_full_color_white_text.png){: width="190"}
+![Microsoft logo](assets/images/Microsoft-logo_rgb_c-wht.png){: width="250" }
+![NSA logo](assets/images/nsa-insignia-sm.png){:width="110"}
+![NSF logo](assets/images/impacts_nsf_logo.jpg){:width="110"}
+![USENIX logo](assets/images/usenix_logo_full_color_white_text.png){: width="230"}
+
+We thank our Bronze sponsor: [The Maryland Cybersecurity Center](https://cyber.umd.edu).
+
+![MC2 logo](assets/images/mc2-logo.jpg){:width="300"}
+
 
 ###### Made with [Hacker](https://pages-themes.github.io/hacker/) theme for Github Pages
