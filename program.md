@@ -38,7 +38,7 @@ Talk and speaker [details](./speakers.md).
 | 10:30-11:00 am | Q&A with Kevin Kornegay |
 | 11:00 am-12:00 pm | Speed mentoring |
 | 12:00 pm-1:00 pm | Food break |
-| 1:00-1:30 pm | Ketchiozo Wandji |
+| 1:00-1:30 pm | Ketchiozo Thierry Wandji:  Software Assurance and Software Certification for High Assurance Mission Critical Systems |
 | 1:30-2:00 pm | Q&A with Ketchiozo Wandji |
 | 2:00-2:30 pm | Rachel Greenstadt: On the Value of Anonymity in Internet Discourse |
 | 2:30-3:00 pm | Q&A with Rachel Greenstadt |
