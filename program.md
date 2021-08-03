@@ -12,17 +12,17 @@ Talk and speaker [details](./speakers.md).
 * * *
 ### Day 1: Thursday, August 5
 
-| --- | --- |
-| 10:00-10:15 am | Welcoming remarks and overview |
-| 10:15-10:45 am | Tal Rabin: You Only Speak Once -- Secure MPC with Stateless Ephemeral Roles|
-| 10:45-11:15 am | Q&A with Tal Rabin |
-| 11:15 am-12:00 pm | Introductions |
-| 12:00-1:30 pm | "Reception" and social hour |
-| 1:30-2:00 pm | Grant Ho: Detecting and Characterizing Lateral Phishing at Scale |
-| 2:00-2:30 pm | Q&A with Grant Ho |
+| --- | --- | --- |
+| 10:00-10:15 am | Welcoming remarks and overview | Talks room |
+| 10:15-10:45 am | Tal Rabin: You Only Speak Once -- Secure MPC with Stateless Ephemeral Roles | Talks room |
+| 10:45-11:15 am | Q&A with Tal Rabin | Talks room |
+| 11:15 am-12:00 pm | Introductions | Speed mentoring room |
+| 12:00-1:30 pm | "Reception" and social hour | Lounge |
+| 1:30-2:00 pm | Grant Ho: Detecting and Characterizing Lateral Phishing at Scale | Talks room |
+| 2:00-2:30 pm | Q&A with Grant Ho | Talks room |
 | 2:30-2:45 pm | break |
-| 2:45-3:30 pm | Breakout sessions |
-| 3:30-4:30 pm | Panel: Socially Responsible Security/Privacy Research: |
+| 2:45-3:30 pm | Breakout sessions | Speed mentoring room |
+| 3:30-4:30 pm | Panel: Socially Responsible Security/Privacy Research: | Talks room |
 ||Abby Marsh, Bekah Overdorf, Tom Ristenpart, Vanessa Teague. |
 ||Moderator: Elissa Redmiles. |
 | 4:30-5:30 pm | Optional social hour |
@@ -34,17 +34,17 @@ Talk and speaker [details](./speakers.md).
 
 | --- | --- |
 | 9:00-10:00 am | Optional social hour |
-| 10:00-10:30 am | Kevin Kornegay: IoT Security Research at the CAP Center |
-| 10:30-11:00 am | Q&A with Kevin Kornegay |
-| 11:00 am-12:00 pm | Speed mentoring |
+| 10:00-10:30 am | Kevin Kornegay: IoT Security Research at the CAP Center | Talks room |
+| 10:30-11:00 am | Q&A with Kevin Kornegay | Talks room |
+| 11:00 am-12:00 pm | Speed mentoring | Speed mentoring room |
 | 12:00 pm-1:00 pm | Food break |
-| 1:00-1:30 pm | Ketchiozo Thierry Wandji:  Software Assurance and Software Certification for High Assurance Mission Critical Systems |
-| 1:30-2:00 pm | Q&A with Ketchiozo Wandji |
-| 2:00-2:30 pm | Rachel Greenstadt: On the Value of Anonymity in Internet Discourse |
-| 2:30-3:00 pm | Q&A with Rachel Greenstadt |
+| 1:00-1:30 pm | Ketchiozo Thierry Wandji:  Software Assurance and Software Certification for High Assurance Mission Critical Systems | Talks room |
+| 1:30-2:00 pm | Q&A with Ketchiozo Wandji | Talks room |
+| 2:00-2:30 pm | Rachel Greenstadt: On the Value of Anonymity in Internet Discourse | Talks room |
+| 2:30-3:00 pm | Q&A with Rachel Greenstadt | Talks room |
 | 3:00-3:15 pm | break |
-| 3:15-4:00 pm | Breakout sessions |
-| 4:00-4:15 pm | Concluding remarks and wrap-up |
+| 3:15-4:00 pm | Breakout sessions | Speed mentoring room |
+| 4:00-4:15 pm | Concluding remarks and wrap-up | Talks room |
 |||
 
 
