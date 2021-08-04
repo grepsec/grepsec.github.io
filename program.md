@@ -21,7 +21,7 @@ Talk and speaker [details](./speakers.md).
 | 1:30-2:00 pm | Grant Ho: Detecting and Characterizing Lateral Phishing at Scale | Talks room |
 | 2:00-2:30 pm | Q&A with Grant Ho | Talks room |
 | 2:30-2:45 pm | break |
-| 2:45-3:30 pm | Breakout sessions | Speed mentoring room |
+| 2:45-3:30 pm | [Breakout sessions](https://docs.google.com/spreadsheets/d/1LXBy1gupKxhbIrweM2T6JREUB8je9_bWbQGsQH9sEvU/edit?usp=sharing) | Speed mentoring room |
 | 3:30-4:30 pm | Panel: Socially Responsible Security/Privacy Research: | Talks room |
 ||Abby Marsh, Bekah Overdorf, Tom Ristenpart, Vanessa Teague. |
 ||Moderator: Elissa Redmiles. |
@@ -43,7 +43,7 @@ Talk and speaker [details](./speakers.md).
 | 2:00-2:30 pm | Rachel Greenstadt: On the Value of Anonymity in Internet Discourse | Talks room |
 | 2:30-3:00 pm | Q&A with Rachel Greenstadt | Talks room |
 | 3:00-3:15 pm | break |
-| 3:15-4:00 pm | Breakout sessions | Speed mentoring room |
+| 3:15-4:00 pm | [Breakout sessions](https://docs.google.com/spreadsheets/d/1LXBy1gupKxhbIrweM2T6JREUB8je9_bWbQGsQH9sEvU/edit?usp=sharing) | Speed mentoring room |
 | 4:00-4:15 pm | Concluding remarks and wrap-up | Talks room |
 |||
 
