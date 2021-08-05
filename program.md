@@ -17,7 +17,7 @@ Talk and speaker [details](./speakers.md).
 | 10:15-10:45 am | Tal Rabin: You Only Speak Once -- Secure MPC with Stateless Ephemeral Roles | Talks room |
 | 10:45-11:15 am | Q&A with Tal Rabin | Talks room |
 | 11:15 am-12:00 pm | Introductions | Speed mentoring room |
-| 12:00-1:30 pm | "Reception" and social hour | Lounge |
+| 12:15-1:30 pm | "Reception" and social hour | Lounge |
 | 1:30-2:00 pm | Grant Ho: Detecting and Characterizing Lateral Phishing at Scale | Talks room |
 | 2:00-2:30 pm | Q&A with Grant Ho | Talks room |
 | 2:30-2:45 pm | break |
